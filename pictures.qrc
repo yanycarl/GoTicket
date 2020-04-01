@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/ad">
+        <file>Resource/main.jpg</file>
+    </qresource>
+    <qresource prefix="/login">
+        <file>Resource/Login.jpeg</file>
+        <file>Resource/signup.jpg</file>
+    </qresource>
+    <qresource prefix="/pages">
+        <file>Resource/page1.jpg</file>
+        <file>Resource/page2.jpg</file>
+        <file>Resource/page3.jpg</file>
+        <file>Resource/page4.jpg</file>
+        <file>Resource/personal_info.jpg</file>
+    </qresource>
+    <qresource prefix="/button">
+        <file>Resource/button_person.jpg</file>
+        <file>Resource/buttom_logout.bmp</file>
+        <file>Resource/buttom_logout_hover.bmp</file>
+        <file>Resource/button_money.jpg</file>
+        <file>Resource/button_privacy.jpg</file>
+        <file>Resource/button_setting.jpg</file>
+        <file>Resource/button_about.jpg</file>
+        <file>Resource/button_person_hover.jpg</file>
+        <file>Resource/button_about_hover.jpg</file>
+        <file>Resource/button_money_hover.jpg</file>
+        <file>Resource/button_privacy_hover.jpg</file>
+        <file>Resource/button_setting_hover.jpg</file>
+        <file>Resource/return.jpg</file>
+        <file>Resource/return_hover.jpg</file>
+        <file>Resource/button_select.jpg</file>
+        <file>Resource/button_search.jpg</file>
+        <file>Resource/button_search_hover.jpg</file>
+    </qresource>
+    <qresource prefix="/file">
+        <file>Resource/chineserail.csv</file>
+    </qresource>
+</RCC>
